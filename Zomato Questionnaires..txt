@@ -1,0 +1,17 @@
+1. Build a Calendar Table using the Columns Datekey_Opening ( Which has Dates from Minimum Dates and Maximum Dates)
+  Add all the below Columns in the Calendar Table using the Formulas.
+   A.Year
+   B.Monthno
+   C.Monthfullname
+   D.Quarter(Q1,Q2,Q3,Q4)
+   E. YearMonth ( YYYY-MMM)
+   F. Weekdayno
+   G.Weekdayname
+2. Convert the Average cost for 2 column into USD dollars (currently the Average cost for 2 in local currencies
+3.Find the Numbers of Resturants based on City and Country.
+4.Numbers of Resturants opening based on Year , Quarter , Month
+5. Count of Resturants based on Average Ratings
+6. Create buckets based on Average Price of reasonable size and find out how many resturants falls in each buckets
+7.Percentage of Resturants based on "Has_Table_booking"
+8.Percentage of Resturants based on "Has_Online_delivery"
+
